@@ -1,0 +1,1 @@
+export * as adRepository from './ad-repository'

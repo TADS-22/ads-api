@@ -1,0 +1,1 @@
+export * as adController from './ad-controller'
